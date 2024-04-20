@@ -1,0 +1,10 @@
+{
+    "name":"Anime_Opening_Updated",
+    "version_number":"1.0.0",
+    "description":"A pack of several anime openings with TV_Loader_Anime_Openings and some in Spanish",
+    "website_url":"",
+    "dependencies": [
+        "Rattenbonkers-TVLoader-1.1.1",
+        "Savants-TV_Loader_Anime_Openings-1.5.0"
+    ]
+}
